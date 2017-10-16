@@ -16,13 +16,13 @@ paid_ to figure out how everything works.
 Lately, I've been learning web development (with help from [Thinkful](https://www.thinkful.com/)).
 
 ##### AJAX, via jQuery
-[https://danrounds.github.io/2ManyRecipes/](2ManyRecipes) |
-[https://github.com/danrounds/2ManyRecipes/](GitHub project page)
+[2ManyRecipes](https://danrounds.github.io/2ManyRecipes/) |
+[GitHub project page](https://github.com/danrounds/2ManyRecipes/)
 
 ##### Node/Express/MongoDB back-end, w/jQuery
-[https://jour-nlp.herokuapp.com](JourNLP) |
-[https://github.com/danrounds/journlp](GitHub project page)
+[JourNLP](https://jour-nlp.herokuapp.com) |
+[GitHub project page](https://github.com/danrounds/journlp)
 
 ##### Full-stack, JavaScript -- React/Redux, Node/Express/Mongo
-[https://what-s-that-chord-doing.herokuapp.com/](What's That Chord Doing?) |
-[https://github.com/danrounds/What-s-That-Chord-Doing/](GitHub project page)
+[What's That Chord Doing?](https://what-s-that-chord-doing.herokuapp.com/) |
+[GitHub project page](https://github.com/danrounds/What-s-That-Chord-Doing/)
