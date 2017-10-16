@@ -21,7 +21,7 @@ Lately, I've been learning web development (with help from [Thinkful](https://ww
 
 ##### Node/Express/MongoDB back-end, w/jQuery
 [JourNLP](https://jour-nlp.herokuapp.com) |
-[GitHub project page](https://github.com/danrounds/journlp)
+[GitHub project page](https://github.com/danrounds/JourNLP)
 
 ##### Full-stack, JavaScript -- React/Redux, Node/Express/Mongo
 [What's That Chord Doing?](https://what-s-that-chord-doing.herokuapp.com/) |
