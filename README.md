@@ -28,4 +28,4 @@ Lately, I've been learning web development (with help from [Thinkful](https://ww
 [GitHub project page](https://github.com/danrounds/What-s-That-Chord-Doing/)
 
 ## Contact:
-(e-mail)[dan.rounds+portfolio@gmail.com]
+[e-mail][dan.rounds+portfolio@gmail.com]
