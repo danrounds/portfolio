@@ -6,13 +6,17 @@
 /*     border: 1px solid orange; */
 /* } */
 
+.story > a {
+    color: orangered;
+}
+
 a {
-    transition: all 0.2s;
+    transition: all 0.5s;
 }
 
 a:hover {
     color: lime;
-    transition: all 0.2s;
+    transition: all 0.5s;
 }
 
 h1 {
@@ -24,16 +28,15 @@ h1 {
     color: #66d;
     font-size: 17px;
     margin-top: -15px;
-    padding: 20px 0 20px 0;
+    padding: 20px;
     text-align: center;
 }
 
 .projH {
-    /* font-variant: small-caps; */
     /* font-size: 30px; */
     color: #445;
-    height: 55px;
-    margin-bottom: -15px;
+    /* height: 55px; */
+    margin-bottom: 1px;
     text-align: center;
 }
 
@@ -57,7 +60,7 @@ img:onblur {
 }
 
 .img-div {
-    margin-bottom: 70px;
+    margin-bottom: 50px;
 }
 
 .links-div {
