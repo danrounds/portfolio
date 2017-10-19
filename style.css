@@ -8,6 +8,7 @@
 
 .story > a {
     color: orangered;
+    font-style: italic;
 }
 
 a {
