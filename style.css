@@ -6,12 +6,14 @@
 /*     border: 1px solid orange; */
 /* } */
 
-.story > a {
-    color: orangered;
-    font-style: italic;
-}
+/* .story > a { */
+/*     color: orangered; */
+/*     font-style: italic; */
+/* } */
 
 a {
+    color: orangered;
+    font-style: italic;
     transition: all 0.5s;
 }
 
