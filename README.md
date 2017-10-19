@@ -1,6 +1,6 @@
 # Dan Rounds
 
-> React, Redux, MongoDB, Node.js, JavaScript, HTML5, CSS, Front-end, Back-end, Website, Webapp
+> React, Redux, MongoDB, Node.js, jQuery, JavaScript, HTML5, CSS, Front-end, Back-end, Website, Webapp
 
 ## Who'm I?
 My BA's in music, but I like coding; I do web development (mostly full-stack
