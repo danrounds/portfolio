@@ -6,6 +6,15 @@
 /*     border: 1px solid orange; */
 /* } */
 
+a {
+    transition: all 0.2s;
+}
+
+a:hover {
+    color: lime;
+    transition: all 0.2s;
+}
+
 h1 {
     font-size: 50px;
 }
