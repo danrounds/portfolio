@@ -63,3 +63,7 @@ img:onblur {
     margin-right: 25px;
     text-align: right;
 }
+
+.seperator {
+    margin: 0 6px 0 9px;;
+}
