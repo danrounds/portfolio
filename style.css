@@ -22,15 +22,10 @@ h1 {
 .projH {
     /* font-variant: small-caps; */
     /* font-size: 30px; */
-    /* color: #337; */
+    color: #445;
     height: 55px;
-    /* text-align: center; */
-}
-
-hr.col-12 {
-    border: none;
-    /* background-color:#ccc; */
-    /* color:#ccc; */
+    margin-bottom: -15px;
+    text-align: center;
 }
 
 img {
@@ -52,7 +47,7 @@ img:onblur {
 }
 
 .img-div {
-    margin-bottom: 30px;
+    margin-bottom: 70px;
 }
 
 .links-div {
