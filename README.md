@@ -1,5 +1,5 @@
 ## Dan Rounds web design portfolio page
 
-### [Live version](danrounds.github.io/portfolio/)
+### [Live version](http://danrounds.github.io/portfolio/)
 
 -DR, 2017
