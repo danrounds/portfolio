@@ -67,18 +67,16 @@ img:onblur {
 }
 
 .links-div {
+    font-weight: 300;
+    font-size: 18px;
     margin-right: 10px;
 }
 
 .img-links {
-    /* position: absolute; */
-    /* font-size: 24px; */
-    /* bottom: 30px; */
-    /* right: 30px; */
     margin-right: 25px;
     text-align: right;
 }
 
 .seperator {
-    margin: 0 6px 0 9px;;
+    margin: 0 4px 0 9px;;
 }
