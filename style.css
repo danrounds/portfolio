@@ -24,10 +24,18 @@ h1 {
     font-size: 60px;
 }
 
-.me-pic {
+.me-pic-div {
     cursor: url('img/clippers_48.png'), url('img/clippers_32'), pointer;
+}
+
+.me-pic {
     display: block;
     margin: -20px auto 0 auto;
+    pointer-events: none;
+}
+
+.me-pic::selection {
+    background: #fff2a8;
 }
 
 .skills {
